@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://0ab6r4u3mma2"]
+
+[ext_resource type="Texture2D" uid="uid://bm3iibpyk7xd6" path="res://assets/pantalla_victoria.jpg" id="1_8fk07"]
+
+[node name="Nivel3_1" type="Node2D" unique_id=559136236]
+
+[node name="PantallaVictoria" type="Sprite2D" parent="." unique_id=541624159]
+position = Vector2(573.5, 324)
+scale = Vector2(1.1240234, 1.1328671)
+texture = ExtResource("1_8fk07")
